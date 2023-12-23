@@ -1,7 +1,6 @@
-# AydiLooks: Redefining Your Shopping Experience
+# AydiLooks: Fashion Within Time
 
-Welcome to AydiLooks – Fashin Within Time!
-
+Welcome to AydiLooks – Where Fashion Meets Convenience But Within Your Clock and Budget Limits!
 ## Table of Contents
 
 - [Introduction](#introduction)

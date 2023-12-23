@@ -7,7 +7,8 @@ Welcome to AydiLooks – Where Fashion Meets Convenience But Within Your Clock a
 - [Features](#features)
 - [Mission and Vision](#mission-and-vision)
 - [Key Technologies](#key-technologies)
-
+- [Team](#team)
+  
 ## Introduction
 
 AydiLooks is not just a shopping platform; it's a revolution in how you experience retail therapy. We seamlessly combine rapid delivery, affordable prices, and personalized recommendations, creating an unparalleled shopping adventure.
@@ -38,5 +39,10 @@ AydiLooks leverages cutting-edge technologies to deliver a seamless experience:
 - **React.js:** Crafting a delightful frontend experience.
 - **PostgreSQL:** Storing data securely and efficiently.
 
+## Team
 
+- [Aditya Kumar Sharma](https://github.com/adisharma9120) (Management Lead)
+- [Avantika Sharma](https://github.com/AvantikaSharma2307) (Frontend Lead)
+- [Ayush Agrawal](https://github.com/A91y) (Backend Lead)
+  
 *Elevate your style, simplify your shopping – AydiLooks is where trends meet convenience.*

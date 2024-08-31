@@ -1,4 +1,4 @@
-# AydiLooks: Fashion Within Time
+# AydiLooks: Within Time
 
 Welcome to AydiLooks – Where Fashion Meets Convenience But Within Your Clock and Budget Limits!
 ## Table of Contents
